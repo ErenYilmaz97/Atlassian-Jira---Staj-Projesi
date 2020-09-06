@@ -7,9 +7,9 @@ Havelsan bünyesinde gerçekleştirmiş olduğum stajım dahilinde, çok güzel 
 ekibin de işlerini kolaylaştıran bir proje geliştirdim. Geliştirdiğim bu proje Asp Net Core Web API 
 mimarisi üzerine kurulmuş olup, veritabanı olarak PostgreSQL kullanılmıştır.
 
-Projenin ana mantığı, atlassian jira rest servislerine RestSharp kütüphanesi ile erişerek, ihtiyaç duyulup verinin çekilmesi, 
-ve backendde ayıklanması ve veritabanına kaydedilmesi üzerine kuruludur. Frontendde ise kendi yazdığım
-rest servislere istek atarak istatistiksel verileri kullanıcıya gösterdim.
+Projenin ana mantığı, atlassian jira rest servislerine RestSharp kütüphanesi ile erişerek, ihtiyaç duyulan verinin çekilmesi, 
+backendde ayıklanması ve veritabanına kaydedilmesi üzerine kuruludur. Frontendde ise kendi yazdığım
+rest servislere istek atarak istatistiksel verileri kullanıcıya listeledim.
 
 Frontend tarafında React.js kullandım. Backend tarafında ise, projeyi katmanlı mimari üzerine kurarak
 bu standarda uymaya çalıştım. 20 işgünlük staj süresi sona erdiğinde proje tamamen bitmiş ve teslim edilmiş haldeydi.
